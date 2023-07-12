@@ -17,7 +17,7 @@ contract Lottery{
     receive() external payable {
         // It indicates that the person must have send atleast 2 ether
         // to be a Participant 
-        require(msg.value ==  1 ether , "Please pay 0.1 ether only");
+        require(msg.value ==  1 ether , "Please pay 1 ether only");
         players.push(payable(msg.sender));
     }
 
