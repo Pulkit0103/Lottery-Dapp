@@ -26,7 +26,7 @@
 
 ## Layout
 (Lottery Dapp Pics/Starting Page.png)
-![Starting Page](Lottery Dapp Pics/Starting Page.png)
+![Starting Page](https://github.com/Pulkit0103/Lottery-Dapp/assets/74561711/d910fdf4-f02d-45c0-9920-4909b35fa23e)
 (Lottery Dapp Pics/Manager.png)
 ![Manager](https://github.com/Pulkit0103/Lottery-Dapp/assets/74561711/4d93a4c5-c341-40a8-aaab-6493f7aed7e4)
 (Lottery Dapp Pics/Players.png)
